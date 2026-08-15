@@ -9,6 +9,8 @@
 
 📧 **Email Me:** [faisalahmmed2307116@gmail.com](mailto:faisalahmmed2307116@gmail.com) **For Collaboration, Research Projects, or Anything Else!** 😊
 
+
+
 - 🛠️ I'm currently working on: -**SolidWorks — CAD Design & 3D Modeling & IoT-based Smart Agriculture & Hydroponics Projects****
 - 🌱 I'm currently learning: **Machine Learning, Deep Learning & Computer Vision**
 - 🤝 I'm looking to collaborate on: **AgriTech, AI/ML & IoT-based Research Projects**
